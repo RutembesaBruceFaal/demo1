@@ -1,2 +1,1 @@
-# demo1
-Demo1 repository
+This is README! it is for my GitHub repo demo1.
